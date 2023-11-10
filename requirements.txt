@@ -1,0 +1,4 @@
+Django==3.2.10
+layoutparser==0.3.3
+Pillow==8.4.0
+pytesseract==0.3.8
